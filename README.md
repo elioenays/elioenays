@@ -3,6 +3,8 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elioenays" alt="elioenays" /> </p>
 
+- 🔭 I’m currently working on [Gostack by Rocketseat](https://app.rocketseat.com.br/me/elioenay)
+
 - 🌱 I’m currently learning **Javascript, nodejs,react,typescript,react-native,postgress**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elioenays](https://github.com/elioenays)
