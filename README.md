@@ -8,3 +8,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/elioenays](https://github.com/elioenays)
 
 - 📫 How to reach me **elionay407@gmail.com**
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elioenays&show_icons=true&locale=en&layout=compact" alt="elioenays" /></p>
+
+<p align="left"> <a href="https://twitter.com/elioenay__" target="blank"><img src="https://img.shields.io/twitter/follow/elioenay__?logo=twitter&style=for-the-badge" alt="elioenay__" /></a> </p>
