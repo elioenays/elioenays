@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Gostack by Rocketseat](https://app.rocketseat.com.br/me/elioenay)
 
-- 🌱 I’m currently learning **Javascript, nodejs,react,typescript,react-native,postgress**
+- 🌱 I’m currently learning **JavaScript, Node.js,React,TypeScript,React-Native,PostgreSQL**
 
 - 👨‍💻 All of my projects are available at [https://github.com/elioenays](https://github.com/elioenays)
 
