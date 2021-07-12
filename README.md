@@ -11,6 +11,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elioenays&show_icons=true&locale=en&layout=compact" alt="elioenays" /></p>
 
-<p align="left"> <a href="https://twitter.com/elioenay__" target="_blank"><img src="https://img.shields.io/twitter/follow/elioenay__?logo=twitter&style=for-the-badge" alt="elioenay__" /></a> </p>
+[![Twitter Badge](https://img.shields.io/twitter/follow/elioenay__?logo=twitter&style=for-the-badge)](https://twitter.com/elioenay__)
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/elioenays)
 
-<p align="left"> <a href="https://www.linkedin.com/in/elioenays" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="elioenays" /></a> </p>
