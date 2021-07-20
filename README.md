@@ -11,6 +11,5 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elioenays&show_icons=true&locale=en&layout=compact" alt="elioenays" /></p>
 
-[![Twitter Badge](https://img.shields.io/badge/-@elioenay__-0077B5?style=for-the-badge&labelColor=0077B5&logo=twitter&logoColor=white&link=https://twitter.com/elioenay__)](https://twitter.com/elioenay__)
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elioenays)](https://www.linkedin.com/in/elioenays)
 
