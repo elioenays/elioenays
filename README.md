@@ -1,7 +1,7 @@
 # Oi 👋, Sou Elioenay Silva</h1>
 ## Desenvolvedor Brasileiro </h3>
 
-- 🌱 Atualmente estou aprendendo **JavaScript, Node.js,React,TypeScript,React-Native,PostgreSQL**
+- 🌱 Atualmente estou aprendendo **JavaScript, Node.js, React, TypeScript, PostgreSQL**
 - Sou estudante de engenharia de software
 - 📫 Contato via e-mail **elionay407@gmail.com**
 
