@@ -1,7 +1,7 @@
 # Oi 👋, Sou Elioenay Silva</h1>
 ## Desenvolvedor Brasileiro </h3>
 
-- 🌱 Atualmente estou aprendendo **TypeScript, NestJS, GraphQL, TypeORM**
+- 🌱 Atualmente estou aprendendo **TypeScript, NestJS, Prisma.io**
 - Sou estudante de engenharia de software
 - 📫 Contato via e-mail **elionay407@gmail.com**
 
