@@ -1,5 +1,5 @@
 # Oi 👋, Sou Elioenay Silva</h1>
-## Desenvolvedor FullStack Node.js</h3>
+## Engenheiro de software</h3>
 
 - 🌱 Atualmente trabalho com **TypeScript, NestJS, ReactJS e Prisma.io**
 - Sou estudante de engenharia de software
