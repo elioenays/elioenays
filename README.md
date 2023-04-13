@@ -7,3 +7,4 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elioenays)](https://www.linkedin.com/in/elioenays)
 
+<img src="https://wakatime.com/share/@Silva/d8f99e65-10ca-4922-86fe-87ffbb2d410c.png" width="600" height="400">
