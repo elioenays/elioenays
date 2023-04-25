@@ -8,4 +8,4 @@
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elioenays)](https://www.linkedin.com/in/elioenays)
 
 
-<img src="https://wakatime.com/share/@elioenay/9d26106a-211e-434e-9a4f-de803686d113.svg" width="550" height="350">
+<img src="https://wakatime.com/share/@elioenay/e6d3ed24-9c0e-44f2-8a3a-9e322b6b4e89.svg" width="550" height="350">
