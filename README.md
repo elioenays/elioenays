@@ -1,6 +1,5 @@
-# Oi 👋, Sou Elioenay Silva</h1>
-## Engenheiro de software</h3>
-
+# Oi 👋, Sou Elioenay Silva
+## Engenheiro de software
 - 🌱 Atualmente trabalho com **TypeScript, NestJS, ReactJS e Prisma.io**
 - Sou estudante de engenharia de software
 - 📫 Contato via e-mail **elionay407@gmail.com**
