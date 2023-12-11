@@ -1,7 +1,7 @@
 # Oi 👋, Sou Elioenay Silva
 ## Engenheiro de software
 - 🌱 Atualmente trabalho com **TypeScript, Nextjs, React, TailwindCSS**
-- Sou estudante de engenharia de software 6/8
+- Sou estudante de engenharia de software 7/8
 - 📫 Contato via e-mail **elionay407@gmail.com**
 
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/elioenays)](https://www.linkedin.com/in/elioenays)
