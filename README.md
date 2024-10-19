@@ -1,6 +1,6 @@
 # Oi 👋, Sou Elioenay Silva
 ## Engenheiro de software
-- 🌱 Atualmente trabalho com **TypeScript, Nextjs, React, TailwindCSS**
+- 🌱 Atualmente trabalho com **TypeScript, Nextjs, React, TailwindCSS, Django**
 - 👨‍💻 Sou estudante de engenharia de software 7/8
 - 📫 Contato via e-mail **elionay407@gmail.com**
 
